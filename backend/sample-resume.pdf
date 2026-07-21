@@ -1,0 +1,21 @@
+%PDF-1.4
+1 0 obj<< /Type /Catalog /Pages 2 0 R >>endobj
+2 0 obj<< /Type /Pages /Kids [3 0 R] /Count 1 >>endobj
+3 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>endobj
+4 0 obj<< /Length 894 >>stream
+BT /F1 11 Tf 50 750 Td (John Doe) Tj 0 -18 Td (Email: john.doe@email.com | Phone: +91 9876543210) Tj 0 -18 Td (LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe) Tj 0 -18 Td (SUMMARY) Tj 0 -18 Td (Full Stack Developer experienced in JavaScript, React, Node.js, MongoDB, and Express.js.) Tj 0 -18 Td (TECHNICAL SKILLS) Tj 0 -18 Td (JavaScript, React, Node.js, Express, MongoDB, Git, Docker, Tailwind CSS, REST APIs) Tj 0 -18 Td (PROJECTS) Tj 0 -18 Td (Built a MERN stack placement tracker using React and Node.js. Improved API response time by 35%.) Tj 0 -18 Td (EXPERIENCE) Tj 0 -18 Td (Software Developer Intern at TechCorp. Developed REST APIs, integrated MongoDB, and deployed with Docker.) Tj 0 -18 Td (EDUCATION) Tj 0 -18 Td (B.Tech Computer Science, ABC University, 2024) Tj 0 -18 Td (CERTIFICATIONS) Tj 0 -18 Td (MongoDB Node.js Developer Path, AWS Cloud Practitioner) Tj ET
+endstream
+endobj
+5 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000056 00000 n 
+0000000111 00000 n 
+0000000235 00000 n 
+0000001178 00000 n 
+trailer<< /Size 6 /Root 1 0 R >>
+startxref
+1246
+%%EOF
